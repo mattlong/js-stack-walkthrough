@@ -1,0 +1,15 @@
+{
+  "name": "part1",
+  "version": "1.0.0",
+  "description": "Matt's Part 1",
+  "main": "index.js",
+  "repository": "https://github.com/mattlong/js-stack-walkthrough",
+  "author": "Matt Long",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "color": "^1.0.3"
+  }
+}
